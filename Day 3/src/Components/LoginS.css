@@ -1,0 +1,85 @@
+
+.Login
+{
+    position: absolute;
+    top: 18%;
+    left: 27%;
+    font-family: 'Times New Roman';
+    font-size: larger;
+    color: rgb(243, 242, 245);
+}
+.name
+{
+    position: absolute;
+    top:32%;
+    left:17%;
+    font-family: 'Lora', serif;
+    color: rgb(251, 247, 247);
+    font-size: large;
+}
+.namein
+{
+    position: absolute;
+    top: 34%;
+    left: 28%;
+    height: 25px;
+    width: 200px;
+    border-color: rgb(250, 250, 250);
+    border-radius: .2cm;
+}
+.password
+{
+    position: absolute;
+    top:40%;
+    left: 17%;
+    font-family: 'Lora', serif;
+    color: rgb(254, 252, 252);
+    font-size: large;
+}
+.passin
+{
+    position: absolute;
+    top:42%;
+    left: 28%;
+    height: 25px;
+    width: 200px;
+    border-color: rgb(234, 228, 228);
+    border-radius: .2cm;
+}
+.cont
+{
+    position: absolute;
+    top:50%;
+    left: 27%;
+    color: rgb(246, 245, 249);
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: 'Lora', serif;
+    font-size: larger;
+}
+.forgot
+{
+    position: absolute;
+    top:55%;
+    left: 25%;
+    color: rgb(243, 241, 247);
+    cursor: pointer;
+    font-family: 'Lora', serif;
+    font-size: larger;
+}
+.losign
+{
+    position: absolute;
+    top:60%;
+    left: 27%;
+    color: rgb(240, 238, 242);
+    cursor: pointer;
+    font-family: 'Lora', serif;
+    font-size: larger;
+}
+body
+{
+    background-image: url('C:\Users\NoorullHasann\Downloads\music-vinyl-simple-background-minimalism-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
