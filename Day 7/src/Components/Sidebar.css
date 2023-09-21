@@ -1,0 +1,84 @@
+/* Sidebar Container */
+.sidebar {
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    top: 6%;
+    left: 0;
+    overflow-y: auto;
+  }
+  
+  /* Sidebar Item Styles */
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    position: relative;
+    padding: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .sidebar li.active {
+    position: relative;
+    background-color: #555;
+  }
+  
+  .sidebar li:hover {
+    background-color: #555;
+  }
+  
+  .sidebar li a {
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+
+  .sidebar li.active a {
+    position: relative;
+    font-weight: bold;
+  }
+  
+  .sidebar::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .sidebar::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+  }
+  
+  .sidebar::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+  }
+
+  .down{
+    position: absolute;
+    top: 80%;
+    width: 250px;
+  }
+  .icon-a{
+    position: absolute;
+    margin-left: -30px;
+  }
+  .icon-l{
+    position: absolute;
+    margin-left: -30px;
+  }
+  .icon-h{
+    position: absolute;
+    margin-left: -30px;
+  }
+  .icon-e{
+    position: absolute;
+    margin-left: -30px;
+  }
+  .icon-s{
+    position: absolute;
+    margin-left: -30px;
+  }
