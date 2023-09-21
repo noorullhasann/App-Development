@@ -1,0 +1,52 @@
+.DashAllign
+{
+    position: absolute;
+    left: 5%;
+    top: 2%;
+    height: 5%;
+    width: 5%;
+}
+.Dash
+{
+    position: absolute;
+    left: 0%;
+    top: 2%;
+    height: 5%;
+    width: 5%;
+    
+}
+.NavBar
+{
+    position: absolute;
+    height: 10%;
+    width: 100%;
+}
+.icon1{
+    position: absolute;
+    top: 30%;
+    color: antiquewhite;
+    size: 20px;
+    left: 90%;
+}
+.icon2{
+    position: absolute;
+    top: 30%;
+    color: antiquewhite;
+    size: 20px;
+    left: 85%;
+}
+.icon3{
+    position: absolute;
+    top: 30%;
+    color: antiquewhite;
+    size: 20px;
+    left: 80%;
+}
+.usernametext
+{
+    position: absolute;
+    left: 92%;
+    top: 30%;
+    color: white;
+
+}
