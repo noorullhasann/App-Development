@@ -1,0 +1,79 @@
+
+.adsidebar {
+    width: 250px;
+    height: 100%;
+    background-color:rgb(45, 7, 48);
+    color: rgb(255, 255, 255);
+    position: fixed;
+    top: 8.1%;
+    left: 0;
+    overflow-y: auto;
+  }
+  
+  /* Sidebar Item Styles */
+  .adsidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .adsidebar li {
+    padding: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .adsidebar li.active {
+    background-color: #555;
+  }
+  
+  /* Sidebar Item Hover Styles */
+  .adsidebar li:hover {
+    background-color: #555;
+  }
+  
+  /* Sidebar Item Text Styles */
+  .adsidebar li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Sidebar Item Active Text Styles */
+  .adsidebar li.active a {
+    font-weight: bold;
+  }
+  
+  /* Sidebar Scrollbar Styles (if needed) */
+  .adsidebar::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .adsidebar::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+  }
+  
+  .adsidebar::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+  }
+  .adSettingside
+  {
+    position: absolute;
+    top: 84.5%;
+    width: 250px;
+  }
+  .adDash-icon{
+    position: absolute;
+    margin-left: -60px;
+  }
+  .adplaylist-icon{
+    position: absolute;
+    margin-left: -40px;
+  }
+  .adlike-icon{
+    position: absolute;
+    margin-left: -75px;
+  }
+  .adsetting-icon{
+    position: absolute;
+    margin-left: -40px;
+  }
