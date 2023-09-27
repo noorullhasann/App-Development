@@ -1,0 +1,162 @@
+.upbg
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+}
+.upbg1
+{
+    position: absolute;
+    height: 75%;
+    width: 45%;
+    top: 15%;
+    left: 27%;
+    opacity: .3;
+    border-radius: 20px;
+}
+#SignAllign1
+{
+    font-family: 'Times New Roman';
+}
+.signHead
+{
+    position: absolute;
+    top: 17%;
+    left: 45%
+}
+.SignfullName1
+{
+        position: absolute;
+        top:30%;
+        left:33%;
+        font-style: italic ;
+        font-size: large;
+}
+.SignfullName11
+{
+      position:absolute;
+      top:32%;
+      left:47%;
+      border-color: rgb(255, 255, 255);
+     height: 3.5%;
+     width: 20%;
+     border-radius: 10px;
+     font-style: italic ;
+}
+.SignEmail1
+{
+   
+    position: absolute;
+    top:39%;
+    left:33%;
+    font-style: italic ;
+    font-size: large;
+}
+.SignEmail11
+{
+    position:absolute;
+    top:41%;
+    left:47%;
+    border-color: rgb(255, 253, 253);
+    height: 3.5%;
+    width: 20%;
+    border-radius: 10px;
+    font-style: italic ;
+}
+.SignUsername1
+{
+    position: absolute;
+    top:48%;
+    left:33%;
+    font-style: italic ;
+    font-size: large;
+}
+.Signusername11
+{
+    position: absolute;
+    top:50%;
+    left:47%;
+    border-color: rgb(255, 255, 255);
+    height: 3.5%;
+    width: 20%;
+    font-style: italic ;
+    border-radius: 10px;
+   
+}
+.Signpwd1
+{
+    position: absolute;
+    top:57%;
+    left:33%;
+    font-style: italic ;
+    font-size: large;
+}
+.Signpwd11
+{
+    position: absolute;
+    top:59%;
+    left:47%;
+    border-color: rgb(255, 255, 255);
+    height: 3.5%;
+    width: 20%;
+    border-radius: 10px;
+    font-style: italic ;
+}
+.Signcp1
+{
+    position: absolute;
+    top:66%;
+    left:33%;
+    font-style: italic ;
+    font-size: large;
+}
+.Signcp11
+{
+    position: absolute;
+    top:68%;
+    left:47%;
+    border-color: rgb(255, 255, 255);
+    height: 3.5%;
+    width: 20%;
+    border-radius: 10px;
+    font-style: italic ;
+}
+.Signup1
+{
+    position: absolute;
+    top:83%;
+    left:66%;
+    cursor: pointer;
+    width: 15%;
+    padding: 8px 8px;
+    font-size: 22px;
+    background-color:rgb(181, 250, 250);
+    
+}
+.Signcb1
+{
+    position: absolute;
+    top:77.5%;
+    left:40%;
+
+}
+.Signcb11
+{
+    position: absolute;
+    top:75%;
+    left:44%; 
+    
+}
+.Signbt
+{
+    position: absolute;
+    top: 83%;
+    left: 45%;
+    height: 5%;
+    width: 10%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(75, 74, 74);
+    border-radius: 10px;
+}
